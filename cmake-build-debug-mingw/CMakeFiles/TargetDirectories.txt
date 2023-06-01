@@ -1,0 +1,3 @@
+C:/Users/imshii/CLionProjects/card/cmake-build-debug-mingw/CMakeFiles/card.dir
+C:/Users/imshii/CLionProjects/card/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/imshii/CLionProjects/card/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
